@@ -1,1 +1,2 @@
-# man-go
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
